@@ -9,4 +9,3 @@ Future Plan
 - Try node.js
 - Try laravel Framework
 - Consist to make projects for web programming
-- Try vue.js
