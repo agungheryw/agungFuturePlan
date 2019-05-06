@@ -1,0 +1,11 @@
+My Current Web Programming Skills on April 2019
+- HTML 5
+- CSS, include Bootstrap 4.0
+- PHP, include Native, OOP, and CodeIgniter Framework
+- MySQL database
+- Javascript, include Jquery basic and AJAX Post for interactive web.
+
+Future Plan
+- Try node.js
+- Try laravel Framework
+- Consist to make projects for web programming.
